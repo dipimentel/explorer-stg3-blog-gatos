@@ -1,4 +1,4 @@
-# explorer-stg3-blog-gatos# Site - Blog de Gatos
+# Site - Blog de Gatos
 
 ![](https://raw.githubusercontent.com/dipimentel/explorer-stg3-blog-gatos/main/img-frame-blog-gatos.png)
 
